@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(233, 245, 71);
+}
+
+h1{
+    color: black;
+    text-align: center;
+    margin-top: 90px;
+}
+
+article{
+    margin: 1% auto;
+    width: 60%;
+}
+
+p{
+    color: black;
+    font-size: 1.3em;
+}

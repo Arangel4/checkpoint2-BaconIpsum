@@ -1,0 +1,163 @@
+@media (min-width: 576px)
+{
+    body{
+        background-color: rgb(36, 184, 135);
+    }
+    
+    h1{
+        color: white;
+        text-align: center;
+        font-size: 3em;
+        margin-top: 150px;
+        font-family: 'Oswald', serif;
+    }
+    
+    article{
+        margin-top: 100px;
+        background-color: black;
+        float: left;
+    
+    }
+    
+    .article1{
+        display: inline-block;
+        height: 300px;
+        width: 330px;
+    }
+    
+    .article2{
+        display: inline-block;
+        height: 300px;
+        width: 330px;
+    }
+    
+    .article3{
+        display: inline-block;
+        height: 300px;
+        width: 330px;
+    }
+    
+    .article1box{
+        height: 30px;
+        width: 150px;
+        margin-top: 40px;
+        background-color: rgb(180, 39, 161);
+        margin-left: 90px;
+    }
+    
+    .article2box{
+        height: 30px;
+        width: 150px;
+        margin-top: 40px;
+        background-color: rgb(233, 245, 71);
+        margin-left: 90px;
+    }
+    
+    .article3box{
+        height: 30px;
+        width: 150px;
+        margin-top: 40px;
+        background-color: rgb(74, 219, 69);
+        margin-left: 90px;
+    }
+    
+    h2{
+        text-align: center;
+        color: white;
+    }
+    
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    
+    
+    p{
+        text-align: center;
+        color: white;
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+}
+
+@media (min-width: 996px)
+{
+    body{
+        background-color: rgb(36, 184, 135);
+    }
+    
+    h1{
+        color: white;
+        text-align: center;
+        font-size: 3em;
+        margin-top: 150px;
+        font-family: 'Oswald', serif;
+    }
+    
+    article{
+        margin-top: 100px;
+        background-color: black;
+        float: left;
+    
+    }
+    
+    .article1{
+        display: inline-block;
+        height: 250px;
+        width: 330px;
+    }
+    
+    .article2{
+        display: inline-block;
+        height: 250px;
+        width: 330px;
+    }
+    
+    .article3{
+        display: inline-block;
+        height: 250px;
+        width: 330px;
+    }
+    
+    .article1box{
+        height: 30px;
+        width: 150px;
+        margin-top: 40px;
+        background-color: rgb(180, 39, 161);
+        margin-left: 90px;
+    }
+    
+    .article2box{
+        height: 30px;
+        width: 150px;
+        margin-top: 40px;
+        background-color: rgb(233, 245, 71);
+        margin-left: 90px;
+    }
+    
+    .article3box{
+        height: 30px;
+        width: 150px;
+        margin-top: 40px;
+        background-color: rgb(74, 219, 69);
+        margin-left: 90px;
+    }
+    
+    h2{
+        text-align: center;
+        color: white;
+    }
+    
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    
+    
+    p{
+        text-align: center;
+        color: white;
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+}
