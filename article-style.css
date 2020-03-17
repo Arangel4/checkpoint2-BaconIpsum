@@ -15,25 +15,30 @@
     article{
         margin-top: 100px;
         background-color: black;
-        float: left;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
     
     }
     
     .article1{
+        margin: auto;
         display: inline-block;
-        height: 300px;
+        height: auto;
         width: 330px;
     }
     
     .article2{
+        margin: auto;
         display: inline-block;
-        height: 300px;
+        height: auto;
         width: 330px;
     }
     
     .article3{
+        margin: auto;
         display: inline-block;
-        height: 300px;
+        height: auto;
         width: 330px;
     }
     
@@ -97,25 +102,26 @@
     article{
         margin-top: 100px;
         background-color: black;
-        float: left;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
     
     }
     
     .article1{
         display: inline-block;
-        height: 250px;
+        height: auto;
         width: 330px;
     }
     
     .article2{
         display: inline-block;
-        height: 250px;
+        height: auto;
         width: 330px;
     }
     
     .article3{
         display: inline-block;
-        height: 250px;
+        height: auto;
         width: 330px;
     }
     
